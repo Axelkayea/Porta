@@ -1,0 +1,21 @@
+# Ignorar la carpeta de dependencias
+node_modules/
+
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar binarios y ejecutables
+*.exe
+*.dll
+*.so
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar configuraciones locales de VSCode
+.vscode/
+
+# Ignorar archivos temporales del sistema
+*.tmp
+.DS_Store
+Thumbs.db
